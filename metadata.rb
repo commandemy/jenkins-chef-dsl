@@ -7,7 +7,7 @@ long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.2.7'
 
 depends 'jenkins', '~> 2.0'
-depends 'chef-sugar', '~> 1.2'
+depends 'chef-sugar', '~> 3.1'
 depends 'apt'
 depends 'artifactory'
 depends 'java', '~> 1.0'
